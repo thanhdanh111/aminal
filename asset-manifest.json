@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aminal/static/css/main.6b298d3a.chunk.css",
+    "main.js": "/aminal/static/js/main.658af849.chunk.js",
+    "main.js.map": "/aminal/static/js/main.658af849.chunk.js.map",
+    "runtime-main.js": "/aminal/static/js/runtime-main.4d37d762.js",
+    "runtime-main.js.map": "/aminal/static/js/runtime-main.4d37d762.js.map",
+    "static/js/2.68c440ca.chunk.js": "/aminal/static/js/2.68c440ca.chunk.js",
+    "static/js/2.68c440ca.chunk.js.map": "/aminal/static/js/2.68c440ca.chunk.js.map",
+    "static/js/3.ee0a62ef.chunk.js": "/aminal/static/js/3.ee0a62ef.chunk.js",
+    "static/js/3.ee0a62ef.chunk.js.map": "/aminal/static/js/3.ee0a62ef.chunk.js.map",
+    "index.html": "/aminal/index.html",
+    "static/css/main.6b298d3a.chunk.css.map": "/aminal/static/css/main.6b298d3a.chunk.css.map",
+    "static/js/2.68c440ca.chunk.js.LICENSE.txt": "/aminal/static/js/2.68c440ca.chunk.js.LICENSE.txt",
+    "static/media/laptop1.fc365c1a.jpg": "/aminal/static/media/laptop1.fc365c1a.jpg",
+    "static/media/logo.6ce24c58.svg": "/aminal/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d37d762.js",
+    "static/js/2.68c440ca.chunk.js",
+    "static/css/main.6b298d3a.chunk.css",
+    "static/js/main.658af849.chunk.js"
+  ]
+}
